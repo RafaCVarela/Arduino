@@ -36,7 +36,8 @@ void turnOnOff(){
   Serial.print("1- stateTurn:\t");
   Serial.println(stateTurn);
 
-  if (!digitalRead(turnPin)) { // verifica se o botão foi acionado
+  // verifica se o botão foi acionado
+  if (!digitalRead(turnPin)) { 
     
     stateTurn = !stateTurn;
     Serial.print("2- stateTurn:\t");

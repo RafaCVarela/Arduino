@@ -1,3 +1,12 @@
+/*
+
+	Projeto que faz dois LED's
+  piscarem em 1000 milisegundos cada.
+    
+  Feito por: Rafael Varela
+
+*/
+
 int LED_P4 = 4;
 int LED_P13 = 13;
 

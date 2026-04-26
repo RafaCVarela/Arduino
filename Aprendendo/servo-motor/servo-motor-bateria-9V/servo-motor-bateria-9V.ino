@@ -1,3 +1,12 @@
+/*
+  Projeto que estuda o movimento
+  de 4 micro servo a partir de
+  4 potenciometros.
+
+  Feito por: Rafael Costa Varela
+
+*/
+
 #include <Servo.h>
 
 Servo SMOTOR_P2;

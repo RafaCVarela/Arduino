@@ -1,7 +1,8 @@
 /*
 
 	Estudo de portas lógicas por programação
-    Feito por: Rafael Costa Varela
+  
+  Feito por: Rafael Costa Varela
 
 */
 

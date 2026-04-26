@@ -3,7 +3,11 @@
 	Projeto de ligar uma LED qualquer,
   a partir do sinal de um botão.
 
-    Feito por: Rafael Varela
+  Simula um circuito digital com
+  uma variável que liga a LED quando
+  o sinal é 1 (Verdade).
+
+  Feito por: Rafael Varela
 
 */
 
